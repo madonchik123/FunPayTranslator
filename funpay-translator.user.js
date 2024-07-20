@@ -4,7 +4,7 @@
 // @author		madonchik123
 // @description Adds a translate button that translates russian text to english!
 // @icon		https://www.google.com/s2/favicons?sz=64&domain=funpay.com
-// @version		1.0.0
+// @version		1.0.1
 // @match		*://funpay.com/lots/offerEdit*
 // @grant		none
 // @run-at		document-end
