@@ -7,6 +7,9 @@
 // @version		1.0.1
 // @match		*://funpay.com/lots/offerEdit*
 // @grant		none
+// @downloadURL  https://github.com/madonchik123/FunPayTranslator/blob/main/funpay-translator.user.js
+// @updateURL    https://github.com/madonchik123/FunPayTranslator/blob/main/funpay-translator.user.js
+// @homepage     https://github.com/madonchik123/FunPayTranslator
 // @run-at		document-end
 // ==/UserScript==
 
